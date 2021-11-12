@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="btcinfo" GeneratedClassName="config">
+  <Profiles />
+  <Settings>
+    <Setting Name="a" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BTCUSDT</Value>
+    </Setting>
+    <Setting Name="b" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ETHUSDT</Value>
+    </Setting>
+    <Setting Name="c" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ENSUSDT</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
